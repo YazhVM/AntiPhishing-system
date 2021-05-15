@@ -6,3 +6,4 @@ The solution has been achieved after testing the model by tuning the hyperparame
 The model architecture has been visualized using built-in tools and the diagram has been included in the repository.
 The accuracy achieved is 96%.
 The precision achieved for legitimate and phishing classes are 95% and 97% respectively, which is far good than the existing solutions.
+The work has been published in https://ieeexplore.ieee.org/document/9298298
